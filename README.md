@@ -16,7 +16,8 @@ This repository contains the code, data visualizations, and report for a group p
 * Matthew Alamu - 23073691 - Ma24aeu
 * Ahasan Nasir - 23073136 - Ahsannasirmehdi
 * Salman Javaid - 23080081 - Salman31945243
-* SIBT UL HASSAN - 23034082 - sibtulhassan8368@gmail.com
+* SIBT UL HASSAN - 23034082 - Sibtul620
+* Stephen Marson - 21044571 - Steppa24Uberes
 
 **Files:**
 
